@@ -1,0 +1,28 @@
+@charset "utf-8";
+* {
+    font-size: 1em;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: auto 5%;
+    background-color: white;
+}
+
+
+/* Đầu trang */
+
+header {
+    background-color: #f1f0f1;
+    padding: 15px 0px;
+}
+
+.search .search-button button {
+    border-radius: 0px 10px 10px 0px;
+    border: none;
+    background-color: #ff391e;
+}
+
+.search .search-box {
+    border-radius: 10px 0px 0px 10px;
+}
